@@ -1,0 +1,2 @@
+# cypress_component_test_with_react_router
+Created with CodeSandbox
